@@ -1,1 +1,4 @@
 サンプル用テキスト
+git clone
+git add
+git rm
